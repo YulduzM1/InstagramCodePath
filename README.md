@@ -20,6 +20,6 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
- ![Alt Text](https://imgur.com/NfzgP1z.gif)
+ ![Click Here for GIF Walkthrough](https://imgur.com/NfzgP1z.gif)
 
 
