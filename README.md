@@ -20,4 +20,6 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/a/xJg400l.gif)
+ ![Alt Text](https://imgur.com/NfzgP1z.gif)
+
+
