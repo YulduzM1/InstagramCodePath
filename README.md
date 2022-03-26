@@ -16,10 +16,14 @@ The following **required** functionality is completed:
 
 
 
-## Video Walkthrough
+## Video Walkthrough Part1A
 
 Here's a walkthrough of implemented user stories:
 
  ![Click Here for GIF Walkthrough](https://imgur.com/F3OIr2r.gif)
+ 
+ ## Video Walkthrough Part1B
 
+New User SignUp
+ ![Click Here for GIF Walkthrough](https://imgur.com/MoBG5CE.gif)
 
