@@ -25,5 +25,5 @@ Here's a walkthrough of implemented user stories:
  ## Video Walkthrough Part1B
 
 New User SignUp
- ![Click Here for GIF Walkthrough](https://imgur.com/MoBG5CE.gif)
+ ![Click Here for GIF Walkthrough](https://imgur.com/a/HymRjYf.gif)
 
