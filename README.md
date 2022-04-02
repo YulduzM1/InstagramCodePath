@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
- ![Click Here for GIF Walkthrough](https://imgur.com/R5J44CR.gif)
+ ![Click Here for GIF Walkthrough](https://imgur.com/6tSWti8.gif)
 
 
 # Parstagram - Part I
