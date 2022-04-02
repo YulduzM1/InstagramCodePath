@@ -7,6 +7,7 @@ target 'InstagramCodePath' do
   pod 'AlamofireImage'
   # Pods for YOUR_APP
   pod 'Parse'
+  pod 'MessageInputBar'
 
   # Pods for InstagramCodePath
 
